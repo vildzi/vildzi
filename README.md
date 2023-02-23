@@ -37,7 +37,7 @@
 
 ## Contact
 
-![Discord](https://img.shields.io/badge/vilP1l%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/vil%239999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 <!--
